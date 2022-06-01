@@ -4,8 +4,7 @@ En esta sesión aprendimos a crear máquinas virtuales con Azure
 
 **Capturas**
 
-![Inicio](Images\01 - Home.png)
-
+![Inicio](Images\01-Home.png)
 ![](Images\02-Create.png)
 ![](Images\02-Create_2.png)
 ![](Images\03-dates.png)
